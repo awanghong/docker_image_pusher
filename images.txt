@@ -1,1 +1,1 @@
-python:3.11-slim
+redis:7.0.5
